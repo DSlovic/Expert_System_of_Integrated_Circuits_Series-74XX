@@ -1,0 +1,71 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Width = 796
+  Height = 863
+  AutoScroll = True
+  Caption = 'Form2'
+  Color = clGreen
+  Constraints.MaxHeight = 900
+  Constraints.MaxWidth = 800
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object imgPinoutAndLogic: TJvImage
+    Left = 96
+    Top = 80
+    Width = 601
+    Height = 401
+    AutoSize = True
+    Center = True
+    Proportional = True
+    Stretch = True
+  end
+  object imgPinout: TJvImage
+    Left = 160
+    Top = 71
+    Width = 449
+    Height = 377
+    AutoSize = True
+    Center = True
+    Proportional = True
+  end
+  object imgLogic: TJvImage
+    Left = 24
+    Top = 435
+    Width = 713
+    Height = 750
+    AutoSize = True
+    Center = True
+    Proportional = True
+  end
+  object labDescription: TLabel
+    Left = 0
+    Top = 0
+    Width = 761
+    Height = 65
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'Label1'
+    Font.Charset = OEM_CHARSET
+    Font.Color = clNavy
+    Font.Height = -19
+    Font.Name = 'Terminal'
+    Font.Style = [fsBold]
+    ParentFont = False
+    Layout = tlCenter
+    WordWrap = True
+  end
+  object ESQuery: TFDQuery
+    ConstraintsEnabled = True
+    Connection = ESConnection.ESConnection
+    Left = 24
+    Top = 192
+  end
+end

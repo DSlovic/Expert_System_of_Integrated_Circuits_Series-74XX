@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/22 16:25:05.000.640,=D:\Projekat Proces Prodaje\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 16:27:15.000.198,D:\Projekat Proces Prodaje\IC_74xx.dproj=D:\Projekat Proces Prodaje\Project1.dproj</Transaction>
+    <Transaction>2023/03/22 16:32:33.000.991,D:\Projekat Proces Prodaje\IC_74xx_U1.dfm=D:\Projekat Proces Prodaje\Unit1.dfm</Transaction>
+    <Transaction>2023/03/22 16:32:33.000.991,D:\Projekat Proces Prodaje\IC_74xx_U1.pas=D:\Projekat Proces Prodaje\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 16:32:44.000.990,D:\Projekat Proces Prodaje\ES_74xx_ic\IC_74xx_U1.dfm=D:\Projekat Proces Prodaje\IC_74xx_U1.dfm</Transaction>
+    <Transaction>2023/03/22 16:32:44.000.990,D:\Projekat Proces Prodaje\ES_74xx_ic\IC_74xx_U1.pas=D:\Projekat Proces Prodaje\IC_74xx_U1.pas</Transaction>
+    <Transaction>2023/03/22 16:34:37.000.391,=D:\Projekat Proces Prodaje\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 16:38:29.000.718,D:\Projekat Proces Prodaje\ESConnectionModule.pas=D:\Projekat Proces Prodaje\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 16:38:29.000.718,D:\Projekat Proces Prodaje\ESConnectionModule.dfm=D:\Projekat Proces Prodaje\Unit1.dfm</Transaction>
+    <Transaction>2023/03/22 19:38:02.000.286,D:\Projekat Proces Prodaje\ES_74xx_ic\ESConnectionModule.pas=D:\Projekat Proces Prodaje\ESConnectionModule.pas</Transaction>
+    <Transaction>2023/03/22 19:38:02.000.286,D:\Projekat Proces Prodaje\ES_74xx_ic\ESConnectionModule.dfm=D:\Projekat Proces Prodaje\ESConnectionModule.dfm</Transaction>
+    <Transaction>2023/03/22 19:38:04.000.571,D:\Projekat Proces Prodaje\ES_74xx_ic\IC_74xx.dproj=D:\Projekat Proces Prodaje\IC_74xx.dproj</Transaction>
+    <Transaction>2023/04/05 17:34:52.000.740,=D:\Projekat Proces Prodaje\ES_74xx_ic\Unit1.pas</Transaction>
+    <Transaction>2023/04/05 17:35:11.000.849,D:\Projekat Proces Prodaje\ES_74xx_ic\Unit1.pas=</Transaction>
+    <Transaction>2023/04/05 17:35:29.000.657,=D:\Projekat Proces Prodaje\ES_74xx_ic\Unit2.pas</Transaction>
+    <Transaction>2023/04/05 17:36:44.000.075,D:\Projekat Proces Prodaje\ES_74xx_ic\Unit2.pas=D:\Projekat Proces Prodaje\ES_74xx_ic\Chip.pas</Transaction>
+    <Transaction>2023/04/05 17:36:44.000.075,D:\Projekat Proces Prodaje\ES_74xx_ic\Unit2.dfm=D:\Projekat Proces Prodaje\ES_74xx_ic\Chip.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ESConnectionModule.pas"/>
+    <File Path="ESConnectionModule.dfm"/>
+    <File Path="IC_74xx_U1.pas"/>
+    <File Path="IC_74xx_U1.dfm"/>
+    <File Path="Chip.pas"/>
+    <File Path="Chip.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
